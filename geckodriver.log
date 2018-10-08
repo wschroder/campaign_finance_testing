@@ -156,3 +156,144 @@
 1538873543206	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
 1538873543747	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
 1538873544381	Marionette	INFO	Stopped listening on port 37731
+1538969567630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WzJUmk9POZRi"
+*** You are running in headless mode.
+1538969569061	Marionette	INFO	Listening on port 33349
+1538969569148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538969569208	Marionette	DEBUG	[2147483649] Frame script loaded
+1538969569208	Marionette	DEBUG	[2147483649] Frame script registered
+1538969569222	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538969570485	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538969570808	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969571292	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969571342	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969573523	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969573525	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969574053	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
+1538969574643	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
+1538969575299	Marionette	INFO	Stopped listening on port 33349
+1538969645491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xH4wRprcNdRh"
+*** You are running in headless mode.
+1538969646916	Marionette	INFO	Listening on port 44455
+1538969646997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538969647063	Marionette	DEBUG	[2147483649] Frame script loaded
+1538969647064	Marionette	DEBUG	[2147483649] Frame script registered
+1538969647079	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538969648300	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538969648710	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969649123	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969649172	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969651246	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969651247	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969651768	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
+1538969652338	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
+1538969652980	Marionette	INFO	Stopped listening on port 44455
+1538969704051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0s8QLynAeks7"
+*** You are running in headless mode.
+1538969705492	Marionette	INFO	Listening on port 44495
+1538969705560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538969705616	Marionette	DEBUG	[2147483649] Frame script loaded
+1538969705617	Marionette	DEBUG	[2147483649] Frame script registered
+1538969705637	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538969706895	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538969707311	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969707737	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969707785	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969709941	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969709943	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538969710373	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
+1538969710979	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=28811&FilerID=C2018000626&Type=candidate
+1538969711622	Marionette	INFO	Stopped listening on port 44495
+1538971770412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F27EHTBlKT3x"
+*** You are running in headless mode.
+1538971772278	Marionette	INFO	Listening on port 38401
+1538971772330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538971772401	Marionette	DEBUG	[2147483649] Frame script loaded
+1538971772402	Marionette	DEBUG	[2147483649] Frame script registered
+1538971772423	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538971773633	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538971773940	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971775359	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971775425	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971777686	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971777688	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971778201	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971778446	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971778591	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971778758	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971778760	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971779157	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538971779590	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538971779638	Marionette	INFO	Stopped listening on port 38401
+[Parent 5401, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1538971920118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SAE38HM45AhO"
+*** You are running in headless mode.
+1538971921541	Marionette	INFO	Listening on port 44539
+1538971921625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538971921684	Marionette	DEBUG	[2147483649] Frame script loaded
+1538971921685	Marionette	DEBUG	[2147483649] Frame script registered
+1538971921698	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538971922948	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538971923249	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971924673	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971924720	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971927006	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971927010	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971927522	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971927758	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971927904	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971928013	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971928017	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971929413	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538971929837	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538971929869	Marionette	INFO	Stopped listening on port 44539
+1538971952038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SAbyHFKh8e5d"
+*** You are running in headless mode.
+1538971953460	Marionette	INFO	Listening on port 46349
+1538971953544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538971953600	Marionette	DEBUG	[2147483649] Frame script loaded
+1538971953601	Marionette	DEBUG	[2147483649] Frame script registered
+1538971953616	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538971954895	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538971955234	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971956868	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971956918	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971959558	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971959561	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538971960047	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971960273	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971960428	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971960555	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971960559	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538971961651	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538971962034	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538971962295	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538971962546	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538971963154	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ReportOptions.aspx?NameID=563&FilerID=C2017000285&CDRID=134611
+1538971968348	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1538972266900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RO6dJqJz52XW"
+*** You are running in headless mode.
+1538972268332	Marionette	INFO	Listening on port 40705
+1538972268406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538972268471	Marionette	DEBUG	[2147483649] Frame script loaded
+1538972268472	Marionette	DEBUG	[2147483649] Frame script registered
+1538972268486	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538972269686	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538972270070	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538972270564	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538972270620	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538972272911	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538972272914	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1538972273392	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538972273836	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538972274009	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538972274125	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538972274129	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1538972275299	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538972275715	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1538972275968	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538972276240	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538972276811	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ReportOptions.aspx?NameID=563&FilerID=C2017000285&CDRID=134611
+1538972282000	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538972289912	Marionette	INFO	Stopped listening on port 40705
