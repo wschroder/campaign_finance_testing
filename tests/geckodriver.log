@@ -1,0 +1,14 @@
+1539201376902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nCrvwg2WDI0L"
+*** You are running in headless mode.
+1539201378428	Marionette	INFO	Listening on port 34949
+1539201378513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539201378570	Marionette	DEBUG	[2147483649] Frame script loaded
+1539201378571	Marionette	DEBUG	[2147483649] Frame script registered
+1539201378586	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539201378759	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539201379355	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201380352	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201380406	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201385610	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+(firefox:4295): GLib-GObject-CRITICAL **: 15:56:49.347: g_object_get: assertion 'G_IS_OBJECT (object)' failed

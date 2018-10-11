@@ -297,3 +297,622 @@
 1538972276811	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ReportOptions.aspx?NameID=563&FilerID=C2017000285&CDRID=134611
 1538972282000	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
 1538972289912	Marionette	INFO	Stopped listening on port 40705
+1539186034482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ik5g4TmuwVO6"
+*** You are running in headless mode.
+1539186041912	Marionette	INFO	Listening on port 46003
+1539186041954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539186042008	Marionette	DEBUG	[2147483649] Frame script loaded
+1539186042047	Marionette	DEBUG	[2147483649] Frame script registered
+1539186042072	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539186043324	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539186043707	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539186045224	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539186045304	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539186047364	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539186047369	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539186047947	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539186048170	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539186048361	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539186048560	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539186048564	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539186049701	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1539186050117	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1539186050379	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539186050642	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539186051346	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ReportOptions.aspx?NameID=563&FilerID=C2017000285&CDRID=134611
+1539186056545	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539186073180	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=563&FilerID=C2017000285&CDRID=134611&Name=Abrams,%20Stacey%20Yvonne&Year=2018&Report=September%2030th%20-%20Election%20Year
+1539186078423	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539186078430	Marionette	INFO	Stopped listening on port 46003
+1539188990540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zxSz6SEH7eb1"
+*** You are running in headless mode.
+1539188991776	Marionette	INFO	Listening on port 34167
+1539188991849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539188991911	Marionette	DEBUG	[2147483649] Frame script loaded
+1539188991912	Marionette	DEBUG	[2147483649] Frame script registered
+1539188991927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539188993183	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539188993581	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539188995063	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539188995109	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539188997416	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539188997420	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539188997991	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539188998217	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539188998356	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539188998460	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539188998463	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539188999773	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1539189000209	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1539189000502	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539189000746	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539189001365	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ReportOptions.aspx?NameID=563&FilerID=C2017000285&CDRID=134611
+1539189006553	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539189013468	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=563&FilerID=C2017000285&CDRID=134611&Name=Abrams,%20Stacey%20Yvonne&Year=2018&Report=September%2030th%20-%20Election%20Year
+1539189019543	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539189019550	Marionette	INFO	Stopped listening on port 34167
+1539189156934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kbAiZxWaKBpg"
+*** You are running in headless mode.
+1539189158255	Marionette	INFO	Listening on port 41347
+1539189158340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539189158398	Marionette	DEBUG	[2147483649] Frame script loaded
+1539189158399	Marionette	DEBUG	[2147483649] Frame script registered
+1539189158411	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539189159684	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539189160065	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539189160778	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539189160825	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539189165148	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539189165150	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Namesearchresults.aspx?CommitteeName=&LastName=a&FirstName=&Method=0
+1539189165617	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539189166170	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539189166310	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539189166413	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539189166418	Marionette	DEBUG	[2147483649] Received DOM event unload for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563
+1539189166802	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1539189167202	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/search/Campaign/Campaign_Name.aspx?NameID=563&FilerID=C2017000285&Type=candidate
+1539189167457	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539189167712	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539189168338	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ReportOptions.aspx?NameID=563&FilerID=C2017000285&CDRID=134611
+1539189173524	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539189190928	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=563&FilerID=C2017000285&CDRID=134611&Name=Abrams,%20Stacey%20Yvonne&Year=2018&Report=September%2030th%20-%20Election%20Year
+1539189196169	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+(firefox:836): GLib-GObject-CRITICAL **: 12:38:15.376: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1539201800830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xBnLrt4R2TE5"
+1539201803009	Marionette	INFO	Listening on port 33917
+1539201803067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539201803123	Marionette	DEBUG	[2147483649] Frame script loaded
+1539201803126	Marionette	DEBUG	[2147483649] Frame script registered
+1539201803143	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539201803335	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539201803693	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201804231	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201804283	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201809488	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539201930295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ar3IyJWrKzsC"
+1539201931753	Marionette	INFO	Listening on port 35167
+1539201931803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539201931857	Marionette	DEBUG	[2147483649] Frame script loaded
+1539201931859	Marionette	DEBUG	[2147483649] Frame script registered
+1539201931873	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539201932203	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539201932635	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201933217	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201933274	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539201938478	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539202186316	Marionette	DEBUG	[4294967297] Frame script loaded
+1539202186335	Marionette	DEBUG	[4294967297] Frame script registered
+1539202187435	Marionette	DEBUG	[6442450945] Frame script loaded
+1539202187436	Marionette	DEBUG	[6442450945] Frame script registered
+1539202187881	Marionette	DEBUG	[4294967300] Frame script loaded
+1539202187905	Marionette	DEBUG	[4294967300] Frame script registered
+1539202188209	Marionette	DEBUG	[6442450948] Frame script loaded
+1539202188230	Marionette	DEBUG	[6442450948] Frame script registered
+1539202188382	Marionette	DEBUG	[4294967303] Frame script loaded
+1539202188402	Marionette	DEBUG	[4294967303] Frame script registered
+1539202188634	Marionette	DEBUG	[6442450951] Frame script loaded
+1539202188656	Marionette	DEBUG	[6442450951] Frame script registered
+1539202188841	Marionette	DEBUG	[4294967306] Frame script loaded
+1539202188860	Marionette	DEBUG	[4294967306] Frame script registered
+1539202189021	Marionette	DEBUG	[6442450954] Frame script loaded
+1539202189040	Marionette	DEBUG	[6442450954] Frame script registered
+1539202189219	Marionette	DEBUG	[4294967309] Frame script loaded
+1539202189243	Marionette	DEBUG	[4294967309] Frame script registered
+1539202189431	Marionette	DEBUG	[6442450957] Frame script loaded
+1539202189455	Marionette	DEBUG	[6442450957] Frame script registered
+1539202189630	Marionette	DEBUG	[4294967312] Frame script loaded
+1539202189657	Marionette	DEBUG	[4294967312] Frame script registered
+1539202189815	Marionette	DEBUG	[6442450960] Frame script loaded
+1539202189841	Marionette	DEBUG	[6442450960] Frame script registered
+1539202190012	Marionette	DEBUG	[4294967315] Frame script loaded
+1539202190035	Marionette	DEBUG	[4294967315] Frame script registered
+1539202190190	Marionette	DEBUG	[6442450963] Frame script loaded
+1539202190210	Marionette	DEBUG	[6442450963] Frame script registered
+1539202190362	Marionette	DEBUG	[4294967318] Frame script loaded
+1539202190380	Marionette	DEBUG	[4294967318] Frame script registered
+1539202190536	Marionette	DEBUG	[6442450966] Frame script loaded
+1539202190560	Marionette	DEBUG	[6442450966] Frame script registered
+1539202190716	Marionette	DEBUG	[4294967321] Frame script loaded
+1539202190750	Marionette	DEBUG	[4294967321] Frame script registered
+1539202190878	Marionette	DEBUG	[6442450969] Frame script loaded
+1539202190904	Marionette	DEBUG	[6442450969] Frame script registered
+1539202191057	Marionette	DEBUG	[4294967324] Frame script loaded
+1539202191077	Marionette	DEBUG	[4294967324] Frame script registered
+1539202191205	Marionette	DEBUG	[6442450972] Frame script loaded
+1539202191229	Marionette	DEBUG	[6442450972] Frame script registered
+1539202191375	Marionette	DEBUG	[4294967327] Frame script loaded
+1539202191403	Marionette	DEBUG	[4294967327] Frame script registered
+1539202191552	Marionette	DEBUG	[6442450975] Frame script loaded
+1539202191581	Marionette	DEBUG	[6442450975] Frame script registered
+1539202191709	Marionette	DEBUG	[4294967330] Frame script loaded
+1539202191741	Marionette	DEBUG	[4294967330] Frame script registered
+1539202191882	Marionette	DEBUG	[6442450978] Frame script loaded
+1539202191919	Marionette	DEBUG	[6442450978] Frame script registered
+1539202192054	Marionette	DEBUG	[4294967333] Frame script loaded
+1539202192072	Marionette	DEBUG	[4294967333] Frame script registered
+1539202192202	Marionette	DEBUG	[6442450981] Frame script loaded
+1539202192218	Marionette	DEBUG	[6442450981] Frame script registered
+1539202192353	Marionette	DEBUG	[4294967336] Frame script loaded
+1539202192373	Marionette	DEBUG	[4294967336] Frame script registered
+1539202192491	Marionette	DEBUG	[6442450984] Frame script loaded
+1539202192510	Marionette	DEBUG	[6442450984] Frame script registered
+1539202192664	Marionette	DEBUG	[4294967339] Frame script loaded
+1539202192685	Marionette	DEBUG	[4294967339] Frame script registered
+1539202192795	Marionette	DEBUG	[6442450987] Frame script loaded
+1539202192815	Marionette	DEBUG	[6442450987] Frame script registered
+1539202196855	Marionette	DEBUG	[4294967342] Frame script loaded
+1539202196874	Marionette	DEBUG	[4294967342] Frame script registered
+1539202197161	Marionette	DEBUG	[6442450990] Frame script loaded
+1539202197182	Marionette	DEBUG	[6442450990] Frame script registered
+1539202197291	Marionette	DEBUG	[4294967345] Frame script loaded
+1539202197310	Marionette	DEBUG	[4294967345] Frame script registered
+1539202197466	Marionette	DEBUG	[6442450993] Frame script loaded
+1539202197485	Marionette	DEBUG	[6442450993] Frame script registered
+1539202197641	Marionette	DEBUG	[4294967348] Frame script loaded
+1539202197658	Marionette	DEBUG	[4294967348] Frame script registered
+1539202197776	Marionette	DEBUG	[6442450996] Frame script loaded
+1539202197798	Marionette	DEBUG	[6442450996] Frame script registered
+1539202197957	Marionette	DEBUG	[4294967351] Frame script loaded
+1539202197974	Marionette	DEBUG	[4294967351] Frame script registered
+1539202198116	Marionette	DEBUG	[6442450999] Frame script loaded
+1539202198137	Marionette	DEBUG	[6442450999] Frame script registered
+1539202198274	Marionette	DEBUG	[4294967354] Frame script loaded
+1539202198293	Marionette	DEBUG	[4294967354] Frame script registered
+1539202198419	Marionette	DEBUG	[6442451002] Frame script loaded
+1539202198437	Marionette	DEBUG	[6442451002] Frame script registered
+1539202198578	Marionette	DEBUG	[4294967357] Frame script loaded
+1539202198597	Marionette	DEBUG	[4294967357] Frame script registered
+1539202198709	Marionette	DEBUG	[6442451005] Frame script loaded
+1539202198738	Marionette	DEBUG	[6442451005] Frame script registered
+1539202198839	Marionette	DEBUG	[4294967360] Frame script loaded
+1539202198855	Marionette	DEBUG	[4294967360] Frame script registered
+1539202198997	Marionette	DEBUG	[6442451008] Frame script loaded
+1539202199031	Marionette	DEBUG	[6442451008] Frame script registered
+1539202199282	Marionette	DEBUG	[4294967363] Frame script loaded
+1539202199310	Marionette	DEBUG	[4294967363] Frame script registered
+1539202199432	Marionette	DEBUG	[6442451011] Frame script loaded
+1539202199455	Marionette	DEBUG	[6442451011] Frame script registered
+1539202199560	Marionette	DEBUG	[4294967366] Frame script loaded
+1539202199578	Marionette	DEBUG	[4294967366] Frame script registered
+1539202199833	Marionette	DEBUG	[6442451014] Frame script loaded
+1539202199856	Marionette	DEBUG	[6442451014] Frame script registered
+1539202199978	Marionette	DEBUG	[4294967369] Frame script loaded
+1539202199993	Marionette	DEBUG	[4294967369] Frame script registered
+1539202200117	Marionette	DEBUG	[6442451017] Frame script loaded
+1539202200141	Marionette	DEBUG	[6442451017] Frame script registered
+1539202200256	Marionette	DEBUG	[4294967372] Frame script loaded
+1539202200273	Marionette	DEBUG	[4294967372] Frame script registered
+1539202200511	Marionette	DEBUG	[6442451020] Frame script loaded
+1539202200530	Marionette	DEBUG	[6442451020] Frame script registered
+1539202200672	Marionette	DEBUG	[4294967375] Frame script loaded
+1539202200695	Marionette	DEBUG	[4294967375] Frame script registered
+1539202200809	Marionette	DEBUG	[6442451023] Frame script loaded
+1539202200823	Marionette	DEBUG	[6442451023] Frame script registered
+1539202200978	Marionette	DEBUG	[4294967378] Frame script loaded
+1539202200996	Marionette	DEBUG	[4294967378] Frame script registered
+1539202201135	Marionette	DEBUG	[6442451026] Frame script loaded
+1539202201159	Marionette	DEBUG	[6442451026] Frame script registered
+1539202201285	Marionette	DEBUG	[4294967381] Frame script loaded
+1539202201309	Marionette	DEBUG	[4294967381] Frame script registered
+1539202201556	Marionette	DEBUG	[6442451029] Frame script loaded
+1539202201579	Marionette	DEBUG	[6442451029] Frame script registered
+1539202201728	Marionette	DEBUG	[4294967384] Frame script loaded
+1539202201742	Marionette	DEBUG	[4294967384] Frame script registered
+1539202201862	Marionette	DEBUG	[6442451032] Frame script loaded
+1539202201878	Marionette	DEBUG	[6442451032] Frame script registered
+1539202202040	Marionette	DEBUG	[4294967387] Frame script loaded
+1539202202058	Marionette	DEBUG	[4294967387] Frame script registered
+1539202202186	Marionette	DEBUG	[6442451035] Frame script loaded
+1539202202207	Marionette	DEBUG	[6442451035] Frame script registered
+1539202202363	Marionette	DEBUG	[4294967390] Frame script loaded
+1539202202380	Marionette	DEBUG	[4294967390] Frame script registered
+1539202202510	Marionette	DEBUG	[6442451038] Frame script loaded
+1539202202529	Marionette	DEBUG	[6442451038] Frame script registered
+1539202202669	Marionette	DEBUG	[4294967393] Frame script loaded
+1539202202699	Marionette	DEBUG	[4294967393] Frame script registered
+1539202202831	Marionette	DEBUG	[6442451041] Frame script loaded
+1539202202849	Marionette	DEBUG	[6442451041] Frame script registered
+1539202203007	Marionette	DEBUG	[4294967396] Frame script loaded
+1539202203030	Marionette	DEBUG	[4294967396] Frame script registered
+1539202203182	Marionette	DEBUG	[6442451044] Frame script loaded
+1539202203208	Marionette	DEBUG	[6442451044] Frame script registered
+1539202203344	Marionette	DEBUG	[4294967399] Frame script loaded
+1539202203359	Marionette	DEBUG	[4294967399] Frame script registered
+1539202203489	Marionette	DEBUG	[6442451047] Frame script loaded
+1539202203506	Marionette	DEBUG	[6442451047] Frame script registered
+1539202203662	Marionette	DEBUG	[4294967402] Frame script loaded
+1539202203682	Marionette	DEBUG	[4294967402] Frame script registered
+1539202203812	Marionette	DEBUG	[6442451050] Frame script loaded
+1539202203837	Marionette	DEBUG	[6442451050] Frame script registered
+1539202203970	Marionette	DEBUG	[4294967405] Frame script loaded
+1539202204005	Marionette	DEBUG	[4294967405] Frame script registered
+1539202204100	Marionette	DEBUG	[6442451053] Frame script loaded
+1539202204129	Marionette	DEBUG	[6442451053] Frame script registered
+1539202205095	Marionette	DEBUG	[4294967408] Frame script loaded
+1539202205116	Marionette	DEBUG	[4294967408] Frame script registered
+1539202205336	Marionette	DEBUG	[6442451056] Frame script loaded
+1539202205354	Marionette	DEBUG	[6442451056] Frame script registered
+1539202205472	Marionette	DEBUG	[4294967411] Frame script loaded
+1539202205489	Marionette	DEBUG	[4294967411] Frame script registered
+1539202205644	Marionette	DEBUG	[6442451059] Frame script loaded
+1539202205662	Marionette	DEBUG	[6442451059] Frame script registered
+1539202205867	Marionette	DEBUG	[4294967414] Frame script loaded
+1539202205888	Marionette	DEBUG	[4294967414] Frame script registered
+1539202205955	Marionette	DEBUG	[6442451062] Frame script loaded
+1539202205971	Marionette	DEBUG	[6442451062] Frame script registered
+1539202206111	Marionette	DEBUG	[4294967417] Frame script loaded
+1539202206129	Marionette	DEBUG	[4294967417] Frame script registered
+1539202206296	Marionette	DEBUG	[6442451065] Frame script loaded
+1539202206312	Marionette	DEBUG	[6442451065] Frame script registered
+1539202206488	Marionette	DEBUG	[4294967420] Frame script loaded
+1539202206505	Marionette	DEBUG	[4294967420] Frame script registered
+1539202461939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hZt542qBPxYT"
+1539202463410	Marionette	INFO	Listening on port 46437
+1539202463446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539202463499	Marionette	DEBUG	[2147483649] Frame script loaded
+1539202463502	Marionette	DEBUG	[2147483649] Frame script registered
+1539202463523	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539202463681	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539202464102	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202464900	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202464946	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202470152	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539202479171	Marionette	INFO	Stopped listening on port 46437
+1539202639844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hbbo0qf3GQf3"
+1539202642306	Marionette	INFO	Listening on port 35789
+1539202642353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539202642409	Marionette	DEBUG	[2147483649] Frame script loaded
+1539202642415	Marionette	DEBUG	[2147483649] Frame script registered
+1539202642444	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539202642631	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539202642987	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202643450	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202643495	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202648700	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539202659722	Marionette	INFO	Stopped listening on port 35789
+[Parent 7056, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539202783806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iwEgZJxXmAQw"
+1539202785282	Marionette	INFO	Listening on port 38357
+1539202785315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539202785368	Marionette	DEBUG	[2147483649] Frame script loaded
+1539202785369	Marionette	DEBUG	[2147483649] Frame script registered
+1539202785388	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539202785553	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539202785878	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202786731	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202786782	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202791986	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539202985569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MFyqekprkHob"
+*** You are running in headless mode.
+1539202986892	Marionette	INFO	Listening on port 44513
+1539202986975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539202987028	Marionette	DEBUG	[2147483649] Frame script loaded
+1539202987029	Marionette	DEBUG	[2147483649] Frame script registered
+1539202987042	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539202987217	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539202987507	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202988088	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202988140	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539202993344	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539203003366	Marionette	INFO	Stopped listening on port 44513
+1539203468513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1ZNo2Oek8GTO"
+*** You are running in headless mode.
+1539203469851	Marionette	INFO	Listening on port 40929
+1539203469918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539203469974	Marionette	DEBUG	[2147483649] Frame script loaded
+1539203469975	Marionette	DEBUG	[2147483649] Frame script registered
+1539203469991	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539203470133	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539203470413	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203471238	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203471290	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203476494	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539203486513	Marionette	INFO	Stopped listening on port 40929
+1539203797937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pyIDJPzD1Gn9"
+1539203799390	Marionette	INFO	Listening on port 35693
+1539203799448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539203799503	Marionette	DEBUG	[2147483649] Frame script loaded
+1539203799504	Marionette	DEBUG	[2147483649] Frame script registered
+1539203799518	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539203799680	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539203799995	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203800647	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203898687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CLDmqYA3U5b4"
+1539203900129	Marionette	INFO	Listening on port 42509
+1539203900195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539203900257	Marionette	DEBUG	[2147483649] Frame script loaded
+1539203900258	Marionette	DEBUG	[2147483649] Frame script registered
+1539203900274	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539203900401	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539203900617	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203901439	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203901493	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203906698	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539203916717	Marionette	INFO	Stopped listening on port 42509
+1539203956859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4l6N3xu3K2C6"
+1539203958313	Marionette	INFO	Listening on port 35959
+1539203958367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539203958424	Marionette	DEBUG	[2147483649] Frame script loaded
+1539203958425	Marionette	DEBUG	[2147483649] Frame script registered
+1539203958441	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539203958601	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539203958959	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203959507	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203959570	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539203964776	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539203973794	Marionette	INFO	Stopped listening on port 35959
+1539204054135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tmJ5oszxrFAQ"
+1539204055606	Marionette	INFO	Listening on port 44131
+1539204055640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539204055695	Marionette	DEBUG	[2147483649] Frame script loaded
+1539204055697	Marionette	DEBUG	[2147483649] Frame script registered
+1539204055721	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539204055863	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539204056096	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204056818	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204056878	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204062083	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539204085379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bi9bSsUWrZTy"
+1539204086811	Marionette	INFO	Listening on port 43313
+1539204086886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539204086946	Marionette	DEBUG	[2147483649] Frame script loaded
+1539204086948	Marionette	DEBUG	[2147483649] Frame script registered
+1539204086967	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539204087105	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539204087449	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204088083	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204088136	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204093340	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539204102359	Marionette	INFO	Stopped listening on port 43313
+1539204505040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nSMRTbRDhBbD"
+1539204506512	Marionette	INFO	Listening on port 44935
+1539204506550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539204506619	Marionette	DEBUG	[2147483649] Frame script loaded
+1539204506624	Marionette	DEBUG	[2147483649] Frame script registered
+1539204506641	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539204506777	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539204507115	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204507813	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204507871	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204513075	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539204578336	Marionette	DEBUG	[4294967297] Frame script loaded
+1539204578336	Marionette	DEBUG	[4294967297] Frame script registered
+1539204579976	Marionette	DEBUG	[6442450945] Frame script loaded
+1539204579976	Marionette	DEBUG	[6442450945] Frame script registered
+1539204580054	Marionette	DEBUG	[4294967300] Frame script loaded
+1539204580072	Marionette	DEBUG	[4294967300] Frame script registered
+1539204580344	Marionette	DEBUG	[6442450948] Frame script loaded
+1539204580364	Marionette	DEBUG	[6442450948] Frame script registered
+1539204580484	Marionette	DEBUG	[4294967303] Frame script loaded
+1539204580503	Marionette	DEBUG	[4294967303] Frame script registered
+1539204882001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uJBAd4sbn00G"
+*** You are running in headless mode.
+1539204883297	Marionette	INFO	Listening on port 44601
+1539204883307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539204883360	Marionette	DEBUG	[2147483649] Frame script loaded
+1539204883365	Marionette	DEBUG	[2147483649] Frame script registered
+1539204883383	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539204883529	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539204883794	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204884431	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204884486	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539204889692	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539204899712	Marionette	INFO	Stopped listening on port 44601
+1539205269614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vEqHAdO8Eiri"
+*** You are running in headless mode.
+1539205270952	Marionette	INFO	Listening on port 39665
+1539205271020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539205271077	Marionette	DEBUG	[2147483649] Frame script loaded
+1539205271078	Marionette	DEBUG	[2147483649] Frame script registered
+1539205271093	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539205271220	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539205271448	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539205272302	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539205272351	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539205277555	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539205300590	Marionette	INFO	Stopped listening on port 39665
+1539205794403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sYd9FWxE6xuI"
+*** You are running in headless mode.
+1539205795621	Marionette	INFO	Listening on port 36053
+1539205795712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539205795770	Marionette	DEBUG	[2147483649] Frame script loaded
+1539205795775	Marionette	DEBUG	[2147483649] Frame script registered
+1539205795798	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539205796052	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539205796275	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539205796918	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539205796972	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539205802176	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+(firefox:11684): GLib-GObject-CRITICAL **: 17:10:52.017: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1539206061181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kozcxzTMMsCa"
+*** You are running in headless mode.
+1539206062513	Marionette	INFO	Listening on port 42621
+1539206062587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539206062653	Marionette	DEBUG	[2147483649] Frame script loaded
+1539206062653	Marionette	DEBUG	[2147483649] Frame script registered
+1539206062666	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539206062871	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539206063185	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206063876	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206063927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206069132	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539206081155	Marionette	INFO	Stopped listening on port 42621
+1539206293557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aqS4fF2AF6mD"
+*** You are running in headless mode.
+1539206294863	Marionette	INFO	Listening on port 34605
+1539206294963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539206295019	Marionette	DEBUG	[2147483649] Frame script loaded
+1539206295020	Marionette	DEBUG	[2147483649] Frame script registered
+1539206295034	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539206295154	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539206295416	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206296091	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206296145	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206301349	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+
+(firefox:12381): GLib-GObject-CRITICAL **: 17:18:50.334: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1539206346400	Marionette	INFO	Stopped listening on port 34605
+[Parent 12381, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539206644347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t9xaFyqSdCml"
+*** You are running in headless mode.
+1539206645674	Marionette	INFO	Listening on port 38637
+1539206645752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539206645808	Marionette	DEBUG	[2147483649] Frame script loaded
+1539206645809	Marionette	DEBUG	[2147483649] Frame script registered
+1539206645825	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539206646005	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539206646268	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206648120	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206648175	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539206653380	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539206664415	Marionette	INFO	Stopped listening on port 38637
+1539207011135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sy9kR08sZmwY"
+*** You are running in headless mode.
+1539207012445	Marionette	INFO	Listening on port 33429
+1539207012543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207012595	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207012596	Marionette	DEBUG	[2147483649] Frame script registered
+1539207012608	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207012760	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207013055	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207013653	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207013708	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207018912	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539207034258	Marionette	INFO	Stopped listening on port 33429
+1539207143345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4qB6KKHduof3"
+*** You are running in headless mode.
+1539207144669	Marionette	INFO	Listening on port 43475
+1539207144750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207144806	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207144807	Marionette	DEBUG	[2147483649] Frame script registered
+1539207144821	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207145106	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207145534	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207146175	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207146232	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207151436	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539207161457	Marionette	INFO	Stopped listening on port 43475
+1539207388215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pktc5mRJoV7q"
+*** You are running in headless mode.
+1539207389639	Marionette	INFO	Listening on port 39543
+1539207389730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207389785	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207389786	Marionette	DEBUG	[2147483649] Frame script registered
+1539207389799	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207389934	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207390234	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207391023	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207391069	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207396274	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14012, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539207534344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E6T8fdkrBah7"
+*** You are running in headless mode.
+1539207535744	Marionette	INFO	Listening on port 32879
+1539207535753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207535811	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207535817	Marionette	DEBUG	[2147483649] Frame script registered
+1539207535833	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207536001	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207536231	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207536870	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207536927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207542132	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539207601842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WfpJawcaYcLp"
+*** You are running in headless mode.
+1539207603237	Marionette	INFO	Listening on port 39587
+1539207603258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207603310	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207603315	Marionette	DEBUG	[2147483649] Frame script registered
+1539207603333	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207603499	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207603809	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207604369	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207604423	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207609629	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539207643639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vZ7FhYPiWdI3"
+*** You are running in headless mode.
+1539207644985	Marionette	INFO	Listening on port 45573
+1539207645046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207645102	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207645103	Marionette	DEBUG	[2147483649] Frame script registered
+1539207645119	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207645288	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207645500	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207646435	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207646489	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207651694	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539207662717	Marionette	INFO	Stopped listening on port 45573
+1539207864438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VxGbq3fJPPXP"
+*** You are running in headless mode.
+1539207865770	Marionette	INFO	Listening on port 44271
+1539207865845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207865898	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207865900	Marionette	DEBUG	[2147483649] Frame script registered
+1539207865912	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207866053	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207866365	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207868343	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207868401	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207873604	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539207883620	Marionette	INFO	Stopped listening on port 44271
+1539207898799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8CDvOrTmqHzV"
+*** You are running in headless mode.
+1539207900119	Marionette	INFO	Listening on port 33909
+1539207900205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539207900258	Marionette	DEBUG	[2147483649] Frame script loaded
+1539207900259	Marionette	DEBUG	[2147483649] Frame script registered
+1539207900272	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539207900441	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539207900738	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207901602	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207901641	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539207906847	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539207945904	Marionette	INFO	Stopped listening on port 33909
+1539208958197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ijN1AC1YvtB7"
+1539208959705	Marionette	INFO	Listening on port 37329
+1539208959803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539208959854	Marionette	DEBUG	[2147483649] Frame script loaded
+1539208959855	Marionette	DEBUG	[2147483649] Frame script registered
+1539208959868	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539208959993	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539208960199	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539208961038	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539208961092	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539208966297	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539208976315	Marionette	INFO	Stopped listening on port 37329
+1539209032222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zao8gvvhg2Tx"
+*** You are running in headless mode.
+1539209033544	Marionette	INFO	Listening on port 39205
+1539209033628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539209033688	Marionette	DEBUG	[2147483649] Frame script loaded
+1539209033689	Marionette	DEBUG	[2147483649] Frame script registered
+1539209033702	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539209033838	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539209034052	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539209034934	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539209034980	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://media.ethics.ga.gov/Search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=27792&FilerID=C2017001358&CDRID=130153&Name=Abbott,%20David%20&Year=2017&Report=Final%20Report%20and%20Termination%20Statement
+1539209040184	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539209051204	Marionette	INFO	Stopped listening on port 39205
